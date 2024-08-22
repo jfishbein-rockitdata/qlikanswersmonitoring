@@ -18,6 +18,6 @@ Use of this application requires a Qlik Answers subscription as well as a Qlik C
 ## Support Policy
 This application is provided as-is and is not supported by Qlik or rockITdata. Over time, the APIs and metrics used by the application may change, so it is advised to monitor this repository for update, and to update the application promptly when new versions are available.
 
-If you have issues while using the application that you are unable to resolve and need additional support, you can contact [rockITdata](https://rockitdata.com) directly for services.
+If you have issues while using the application, you can [submit an issue](https://github.com/jfishbein-rockitdata/qlikanswersmonitoring/issues), and if you need additional support, you can contact [rockITdata](https://rockitdata.com) directly for services.
 
 If you have feature requests you can submit them here: [Feature Request](mailto:jfishbein@rockitdata.com)
